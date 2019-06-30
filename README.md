@@ -1,4 +1,3 @@
-![](media/6697d15f6c41c5c523d8d492e0940c4f.png)
 
 >   **Case Study Report**
 
@@ -16,7 +15,7 @@ Vũ Đình Vi Nghiệm 17520805
 
 Nguyễn Chí Bảo 17520271
 
-1. Phát biểu bài toán
+# 1. Phát biểu bài toán
 =====================
 
 1.1. Mục đích
